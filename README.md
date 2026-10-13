@@ -1,2 +1,2 @@
-# my-k8s-leaarning
+# my-k8s-learning
 This repo is to understand the kubernetes concepts .
